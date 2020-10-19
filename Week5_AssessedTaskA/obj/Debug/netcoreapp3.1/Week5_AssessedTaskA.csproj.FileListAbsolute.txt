@@ -1,0 +1,13 @@
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\bin\Debug\netcoreapp3.1\Week5_AssessedTaskA.exe
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\bin\Debug\netcoreapp3.1\Week5_AssessedTaskA.deps.json
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\bin\Debug\netcoreapp3.1\Week5_AssessedTaskA.runtimeconfig.json
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\bin\Debug\netcoreapp3.1\Week5_AssessedTaskA.runtimeconfig.dev.json
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\bin\Debug\netcoreapp3.1\Week5_AssessedTaskA.dll
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\bin\Debug\netcoreapp3.1\Week5_AssessedTaskA.pdb
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\obj\Debug\netcoreapp3.1\Week5_AssessedTaskA.csprojAssemblyReference.cache
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\obj\Debug\netcoreapp3.1\Week5_AssessedTaskA.AssemblyInfoInputs.cache
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\obj\Debug\netcoreapp3.1\Week5_AssessedTaskA.AssemblyInfo.cs
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\obj\Debug\netcoreapp3.1\Week5_AssessedTaskA.csproj.CoreCompileInputs.cache
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\obj\Debug\netcoreapp3.1\Week5_AssessedTaskA.dll
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\obj\Debug\netcoreapp3.1\Week5_AssessedTaskA.pdb
+C:\Users\zivil\source\repos\Week5\Week5_AssessedTaskA\obj\Debug\netcoreapp3.1\Week5_AssessedTaskA.genruntimeconfig.cache
